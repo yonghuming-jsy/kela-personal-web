@@ -1,4 +1,4 @@
-# Kela Personal Web
+# JSY Personal Web
 
 一个可直接部署到 GitHub Pages 的单页个人主页。
 
